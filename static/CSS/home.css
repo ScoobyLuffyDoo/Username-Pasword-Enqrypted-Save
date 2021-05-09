@@ -1,0 +1,20 @@
+
+.title{
+    font-size:15mm ;
+    font-weight:100;
+    font-family: 'Times New Roman', Times, serif;
+    /* color:rgb(43, 42, 42); */
+    /* -webkit-text-shadow: 0 10px 30px 0 rgba(95,186,233,0.4); */
+    text-shadow: 10px 5px 20px #b0dffa;
+}
+
+
+.card{
+    box-shadow: 0 10px 30px 0 rgba(92, 92, 92, 0.4);
+    height: 10%;
+}
+
+.AboutThisSite{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}

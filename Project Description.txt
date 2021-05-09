@@ -2,7 +2,9 @@ Project Description
 
 
 i want to create a user login page that uses the same service as the project
-i want make a service that takes a username passeword and a link or name of place 
+
+i want make a page that takes a username passeword and a link or name of place 
+
 i want to encrypt the details and choose the encryption levek
     the level of encryption will be stored 
 i want to store it on a mongoDB 

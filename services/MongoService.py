@@ -19,3 +19,6 @@ else:
 # print(serverStatusResult)
 
 
+mydb = myclient["mydatabase"]
+
+mycol = mydb["customers"]

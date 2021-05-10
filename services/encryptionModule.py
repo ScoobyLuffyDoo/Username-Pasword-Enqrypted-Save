@@ -4,7 +4,6 @@ import binascii
 # Loads Encryption Key 
 # This key will be stored in a mongo instance 
 def loadkey():
-    """ Loads the key from the current directory"""
     return open("key.key","rb").read()
 
 # Encryption Function 

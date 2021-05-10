@@ -19,6 +19,6 @@ else:
 # print(serverStatusResult)
 
 
-mydb = myclient["mydatabase"]
+# mydb = myclient["mydatabase"]
 
-mycol = mydb["customers"]
+# mycol = mydb["customers"]
